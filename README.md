@@ -34,14 +34,3 @@ Smooth tilt-based hover animation with shadow and scale effect.
 
 ---
 
-## 🚀 Installation
-
-```bash
-npx create-next-app@latest my-app
-cd my-app
-
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-
-npx shadcn-ui@latest init
-npm install clsx tailwind-merge
