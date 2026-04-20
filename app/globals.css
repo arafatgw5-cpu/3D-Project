@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+/* globals.css */
+.writing-mode-vertical {
+  writing-mode: vertical-rl;
+}
