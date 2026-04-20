@@ -4,7 +4,7 @@ A collection of beautiful, interactive **3D card components** with smooth animat
 
 ## 🔗 Live & Repository
 
-- 🌐 Live Site: https://3-d-project-six.vercel.app/books  
+- 🌐 Live Site: https://3-d-project-six.vercel.app 
 - 💻 GitHub Repo: https://github.com/arafatgw5-cpu/3D-Project  
 
 ---
